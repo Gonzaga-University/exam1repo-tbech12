@@ -8,7 +8,7 @@ class Adder():
         self.val2 = val2
 
     def getSum(self):
-        return val1 + val2
+        return self.val1 + self.val2
 
 
 if __name__ == "__main__":

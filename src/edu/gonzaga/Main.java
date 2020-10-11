@@ -14,6 +14,9 @@ class Adder {
 
 public class Main {
     public static void main(String args[]) {
-        System.out.println("Hello world");
+        System.out.println("Starting app");
+        Adder adder = new Adder(10, 20);
+
+        System.out.println("App finished.");
     }
 }

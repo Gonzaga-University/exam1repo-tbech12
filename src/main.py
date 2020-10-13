@@ -12,9 +12,11 @@ class Adder():
 
 
 if __name__ == "__main__":
-    print("Starting program")
+    print("Starting program!")
 
     adder = Adder(10, 20)
+    print("The sum is: \n")
     print(adder.getSum())
 
     print("Done with program")
+    print("Thank you for using program")

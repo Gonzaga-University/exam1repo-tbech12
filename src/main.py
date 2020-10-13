@@ -19,3 +19,4 @@ if __name__ == "__main__":
     print(adder.getSum())
 
     print("Done with program")
+    print("Thank you for using program")
